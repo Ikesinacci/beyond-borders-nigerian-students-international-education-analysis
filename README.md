@@ -26,7 +26,7 @@ The analysis was carried out in a Jupyter Notebook kernel and follows these step
 1. **Problem Statement**: Defining the research goals.  
 2. **Data Collection**: Surveys from students, professionals, and stakeholders.  
 3. **Data Cleaning**: Preparing and refining the datasets.  
-4. **Exploratory Data Analysis (EDA)**:  
+4. **Data Analysis**:  
    - Key trends in motivations, challenges, and preferred destinations.  
    - Visualizations to present insights.  
 5. **Conclusion**: Insights and actionable recommendations.  
